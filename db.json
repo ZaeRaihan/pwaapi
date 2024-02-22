@@ -1,0 +1,24 @@
+{
+  "products": [
+    {"id":1,"name":"Jungle cat","category":"Red"},
+    {"id":2,"name":"Long-finned pilot whale","category":"Yellow"},
+    {"id":3,"name":"Bird, secretary","category":"Fuscia"},
+    {"id":4,"name":"Dog, raccoon","category":"Khaki"},
+    {"id":5,"name":"Turkey, australian brush","category":"Maroon"},
+    {"id":6,"name":"Black-collared barbet","category":"Pink"},
+    {"id":7,"name":"Toddy cat","category":"Khaki"},
+    {"id":8,"name":"Nighthawk, common","category":"Green"},
+    {"id":9,"name":"Sloth, two-toed tree","category":"Violet"},
+    {"id":10,"name":"Cape clawless otter","category":"Yellow"},
+    {"id":11,"name":"Bahama pintail","category":"Purple"},
+    {"id":12,"name":"Radiated tortoise","category":"Violet"},
+    {"id":13,"name":"Capuchin, weeper","category":"Pink"},
+    {"id":14,"name":"Caribou","category":"Pink"},
+    {"id":15,"name":"Giraffe","category":"Violet"},
+    {"id":16,"name":"African wild cat","category":"Red"},
+    {"id":17,"name":"Gaur","category":"Turquoise"},
+    {"id":18,"name":"White rhinoceros","category":"Purple"},
+    {"id":19,"name":"African black crake","category":"Violet"},
+    {"id":20,"name":"Brocket, brown","category":"Aquamarine"}
+  ]
+}
